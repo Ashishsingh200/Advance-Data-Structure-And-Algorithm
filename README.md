@@ -1,4 +1,4 @@
-![ascii-table](https://github.com/user-attachments/assets/e52abbc4-ccc3-4fb0-a948-af246b62a588)# Advance-Data-Structure-And-Algorithm
+# Advance-Data-Structure-And-Algorithm
 DSA practice in C as well as Python
 
 #Ascii Chart
